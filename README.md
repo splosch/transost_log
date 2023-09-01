@@ -1,4 +1,4 @@
-# Leberkäse und dann n Eis
+# Ab in den Osten, neee ritsch Osten!
 Transost - mit [Spejbl und Hurvínek](https://de.wikipedia.org/wiki/Spejbl_und_Hurv%C3%ADnek) bis rauf zur Schneekoppe... und wieder zurück.
 
 [![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/tHCADUPDQJbHLftMA)
