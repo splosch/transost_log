@@ -1,32 +1,31 @@
 # Leberkäse und dann n Eis
-Meine Tour über die Alpen.
+Transost - mit [Spejbl und Hurvínek](https://de.wikipedia.org/wiki/Spejbl_und_Hurv%C3%ADnek) bis rauf zur Schneekoppe... und wieder zurück.
 
 [![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/tHCADUPDQJbHLftMA)
-(Kann man anklicken 😋)
+(noch nicht aktiv 😋)
 
 ## Tour-Plan und Reiselog incl. Bilder
-- [Aktuell und Plan](https://github.com/splosch/transalp_log/issues?q=sort%3Acreated-asc)
-- [Alles was bereits passiert ist](https://github.com/splosch/transalp_log/issues?q=is%3Aissue+is%3Aclosed)
+- [Aktuell und Plan](https://github.com/splosch/transost_log/issues?q=sort%3Acreated-asc)
+- [Alles was bereits passiert ist](https://github.com/splosch/transost_log/issues?q=is%3Aissue+is%3Aclosed)
 - *Updates bei Bock und Empfang*
 
-## Was ist geplant, was nicht:
-- 27.8. 05:19 Hannover -> München im ICE
-- Start der Radtour 12:00 ab München HBF
-- Ende der Radtour am 4.9. in Arco/Gardesee /Ital.
-- Rückreise am 11.9. mit dem Zug ab Rovereto /Ital.
+## "Joar, kamma machen"
+- Dont try this at home 😋
+- 6 Tage aufm Bock + Erholungstage (?... mal sehen)
+- 2.9. Start in Sebnitz -> 4.9. Ankunft auf Schneekoppe
+- und wieder zurück nach Sebnitz
+- wir sind 6 äßerst verwirrte Gurkenheimer die ...
+  - ... es lieben Ihren Urlaub schwitzend in Zeckenverseuchten Wäldern zu verbringen
+  - ... sich Carbo-Gel anstelle der landestypischen Köstlichkeiten reinpressen
+  - Höhenmeter ohne Sinn und Verstand schruppen nur um sagen zu könn...
+  - "kamma ma machen..."  
 
-- Strecke ist geplant, Verlauf & Unterkünfte nicht
-- den GPS-Tracks folge ich weitestgehend, ausser mich lacht ne Detour an
-- ich fahre bei Tageslicht, ausser die Detour war wirklich geilomat, dann whatever...
-
-## Fleisch oder Fisch?
-~~Es wird gezeltet wenn möglich, schliesslich~~ schlepp ~~ich~~ das Teil *wetterbedingt* ~~nicht~~ nur zur Konditionierung mit.
-Sollte es ein Tag im Regen werden, gönn ich mir aber sicher ne Ausnahme.
-Zeltplatz wäre geil schon wegen der Dusche, aber ich nehm auch ne Lichtung mit Fluss.
-Lecker essen & Siesta.
+- Strecke ist bereits 2020 von einigen der beteiligten Atzen schonmal gefahren worden.
+- GPS Tracks sind also belannt.
+- Unterkünfte hat Christian alle schon gebucht. 
+- Wer was essen will muss bis 18Uhr am Buffett stehen.
 
 ## Grobplanung
-MTB, ca. 500km bei <5000hm, 5-7 Tage
+MTB, ca. `11200 hm / Zwölf-Tausend Höhenmeter`, auf `570 km` über 6 Tage
 
-Da das meine erste Tour dieser Art und Dauer ist und ich alleine fahre, nehme ich zwar nicht die Stadtrad-Pipi-Variante mit Shuttle-SUV und Postbus aber auch nicht die "ich trag mein Rad wenn's sein muss" Option.
-Deswegen ist die Tour auch nicht auf meinem Mist gewachsen, sondern wird auch so Radreisewilligen als begleitete Tour angeboten. Die Streckenführung ist für MTB ausgelegt, wenig Strasse, viel Wege, ohne derbe Trails. (S1)
+Trails, Tragen, Wald unt Kretsch alles vom Feinsten.
