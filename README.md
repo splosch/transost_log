@@ -5,14 +5,14 @@ Transost - mit [Spejbl und Hurvínek](https://de.wikipedia.org/wiki/Spejbl_und_H
 (kann man anklicken😋)
 
 ## Tour-Plan und Reiselog incl. Bilder
-- [Etappe 1 läuft gerade](https://github.com/splosch/transost_log/issues/1)
+-[Etappe 1 läuft gerade](https://github.com/splosch/transost_log/issues/1)
 - [Aktuell und Plan](https://github.com/splosch/transost_log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/transost_log/issues?q=is%3Aissue+is%3Aclosed)
 - *Updates bei Bock und Empfang*
 
 ## "Joar, kamma machen"
 - Dont try this at home 😋
-- 6 Tage aufm Bock + Erholungstage (?... mal sehen)
+- 7 Tage aufm Bock + --Erholungstage-- (?... mal sehen)
 - 2.9. Start in Sebnitz -> 4.9. Ankunft auf Schneekoppe
 - und wieder zurück nach Sebnitz
 - wir sind 6 äßerst verwirrte Gurkenheimer die ...
