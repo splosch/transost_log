@@ -12,10 +12,16 @@ Transost - mit [Spejbl und Hurvínek](https://de.wikipedia.org/wiki/Spejbl_und_H
 
 ## "Joar, kamma machen"
 - Dont try this at home 😋
-- 7 Tage aufm Bock + --Erholungstage-- (?... mal sehen)
-- 2.9. Start in Sebnitz -> 4.9. Ankunft auf Schneekoppe
-- und wieder zurück nach Sebnitz
-- wir sind 6 äßerst verwirrte Gurkenheimer die ...
+- 7 Tage aufm Bock + __Erholungstage__ (Hate nen Gedankenfehler, Tag 2 in Malevil, wird kein Erholungstag sondern Rundtour vor Ort)
+- Samstag 2.9. Start in Sebnitz (Team Kams)
+- Sonntag 3.9. Runde bei Malevil
+- Montag 4.9. Treffen mit den anderen in Malevil 
+- 5.9. Ankunft auf Schneekoppe
+- 6.9. Rückreise startet
+- Freirag 8.9. Ankunft in Sebnitz
+
+## Wer sind die 6 Verrickten? 
+- Gurkenheimer die ...
   - ... es lieben Ihren Urlaub schwitzend in Zeckenverseuchten Wäldern zu verbringen
   - ... sich Carbo-Gel anstelle der landestypischen Köstlichkeiten reinpressen
   - Höhenmeter ohne Sinn und Verstand schruppen nur um sagen zu könn...
