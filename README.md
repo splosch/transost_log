@@ -1,7 +1,7 @@
 # Ab in den Osten, neee ritsch Osten!
 Transost - mit [Spejbl und Hurvínek](https://de.wikipedia.org/wiki/Spejbl_und_Hurv%C3%ADnek) bis rauf zur Schneekoppe... und wieder zurück.
 
-[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/https://maps.app.goo.gl/U1SGjtAHWqxitUXLA)
+[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/TkryQSavZFu4XKTN8)
 (kann man anklicken😋)
 
 ## Tour-Plan und Reiselog incl. Bilder
