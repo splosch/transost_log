@@ -14,9 +14,9 @@ Transost - mit [Spejbl und Hurvínek](https://de.wikipedia.org/wiki/Spejbl_und_H
 - Dont try this at home 😋
 - 7 Tage aufm Bock + __Erholungstage__ (Hate nen Gedankenfehler, Tag 2 in Malevil, wird kein Erholungstag sondern Rundtour vor Ort)
 - Samstag 2.9. Start in Sebnitz (Team Kams)
-- Sonntag 3.9. Runde bei Malevil
-- Montag 4.9. Treffen mit den anderen in Malevil 
-- 5.9. Ankunft auf Schneekoppe
+- Sonntag 3.9. "Entspannungsrunde" Malevil
+- Montag 4.9. Abfahrt Team Kams in Malevil und treffen mit den anderen Atzen aufm Weg oder auch am Ziel.
+- Di 5.9. Ankunft auf Schneekoppe
 - 6.9. Rückreise startet
 - Freirag 8.9. Ankunft in Sebnitz
 
