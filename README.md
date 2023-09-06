@@ -5,7 +5,7 @@ Transost - mit [Spejbl und Hurvínek](https://de.wikipedia.org/wiki/Spejbl_und_H
 (kann man anklicken😋)
 
 ## Tour-Plan und Reiselog incl. Bilder
-- [Etappe 3 steht an - rauf bis knapp unter die Schneekoppe](https://github.com/splosch/transost_log/issues/3)
+- [Etappe 4 - auf nach Spindler Mühln](https://github.com/splosch/transost_log/issues/4)
 - [Aktuell und Plan](https://github.com/splosch/transost_log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/transost_log/issues?q=is%3Aissue+is%3Aclosed)
 - *Updates bei Bock und Empfang*
